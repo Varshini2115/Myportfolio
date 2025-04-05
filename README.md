@@ -28,7 +28,7 @@ It showcases my skills, projects, resume, and contact information in a clean and
 
 1. Clone the repository  
    ```
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Varshini2115/Myportfolio.git
    ```
 2. Open the project folder  
 3. Open `index.html` in your browser
