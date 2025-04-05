@@ -1,10 +1,10 @@
 
-# 💼 Personal Portfolio Website
+#  Personal Portfolio Website
 
 This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
 It showcases my skills, projects, resume, and contact information in a clean and responsive layout.
 
-## 🌟 Features
+##  Features
 
 - **About Me** section  
 - **Resume** download and view  
@@ -14,15 +14,9 @@ It showcases my skills, projects, resume, and contact information in a clean and
 - Fully **responsive** design for all devices  
 - Smooth **navigation** with JavaScript
 
-## 🚀 Tech Stack
+## Live Demo
 
-- HTML  
-- CSS  
-- JavaScript  
-
-## 📍 Live Demo
-
-👉 [Click here to view the website](http://127.0.0.1:5500/index1.html#)
+[Click here to view the website](http://127.0.0.1:5500/index1.html#)
 
 ## 🛠 Setup Instructions
 
